@@ -1,0 +1,40 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  
+}
+
+body{
+    background-color: pink;
+    width: 100vw;
+    height: 100vh;
+    
+}
+.container{
+    margin: auto;
+    background-color: white;
+height: 500px;
+width: 300px;
+border-radius: 30px;
+margin-top: 50px;
+}
+.wid{ width: 290px;
+    margin: auto;
+}
+.center{ text-align: center;}
+.w1 h5{ padding-top: 30px;
+    line-height: 0px;
+}
+.color{ color:#e75480 ;}
+.w2 h5{ line-height: 0px;}
+.heading{ padding-top: 21px;}
+.para p{ font-size: 10px;}
+
+.btn { padding-top: 20px;}
+.btn button{ width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    color: white;
+    background-color: #e75480;
+}
